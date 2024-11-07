@@ -1,7 +1,8 @@
 # Код и Магия
 
 Учебный демо-проект от HTML Academy для 29 потока профессионального онлайн‑курса «JavaScript. Профессиональная разработка веб-интерфейсов».
-
+# Mentor
+Polytechnic University
 ### Как пользоваться репозиторием
 
 Первый вариант, это изучать коммиты [в веб-интерфейсе GitHub в master-ветке потока](https://github.com/htmlacademy/code-and-magic-demo).
